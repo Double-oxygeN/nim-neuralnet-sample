@@ -2,6 +2,10 @@
 
 Simple Neural Net Implementation Sample in Nim
 
+## Documentation
+
+http://double-oxygen.net/nim-neuralnet-sample/neuralnet.html
+
 ## License
 
 Apache-2.0  
